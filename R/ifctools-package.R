@@ -20,10 +20,10 @@
 #' office)."
 #'
 #' For more info see
-#' \url{http://en.wikipedia.org/wiki/Italian_fiscal_code_card}.
+#' \url{https://en.wikipedia.org/wiki/Italian_fiscal_code_card}.
 #'
 #' @name ifctools
 #' @docType package
-#' @useDynLib ifctools
+#' @useDynLib ifctools, .registration = TRUE
 #' @importFrom stats var
 NULL
