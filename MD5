@@ -1,4 +1,4 @@
-7d4e6d9b2060968c143fa3539517d811 *DESCRIPTION
+96fc0c1d14ed8faa94899b984247ad31 *DESCRIPTION
 55fe19ccd8620a7e9936c4fb4e37fbc3 *NAMESPACE
 1f4820757abf4e4603d21a1672c182eb *R/guess_fc.R
 d094c4a34078a4bfe9d4bf3808101aa8 *R/ifctools-package.R
@@ -12,7 +12,7 @@ d8c70fa1ee6525a08a56c84b3eb3abfe *src/ifctools_init.c
 a4b62db5528e50b45b911e87c276425b *src/reg_check_digit.c
 277793500ceea7a079d74af593e707b8 *src/reg_check_digit.h
 38a4186169cac8cf313027ec0211bc67 *src/reg_guess_fc.c
-b0e0008faf9a0405ed68d5ba5c2631c6 *src/reg_guess_fc_worker.c
+77208006c1c9588603251246305f46a1 *src/reg_guess_fc_worker.c
 dd4b73af7c372e331afd0769dc1ae425 *src/reg_guess_fc_worker.h
 722dfdb8b225454a2b4c3f4480dac6bb *src/reg_wrong_fc.c
 7f444c198f9ef35f33c7e8fd21dfa7e7 *src/tmp_check_digit.c
