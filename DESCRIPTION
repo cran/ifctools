@@ -1,6 +1,6 @@
 Package: ifctools
 Title: Italian Fiscal Code ('Codice Fiscale') Utilities
-Version: 0.3.5
+Version: 0.3.6
 Authors@R: person("Luca", "Braglia", email = "lbraglia@gmail.com", role
         = c("aut", "cre"))
 Description: Provides utility functions to deal with Italian fiscal
@@ -13,8 +13,8 @@ Suggests: testthat
 RoxygenNote: 7.2.3
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2023-01-26 12:14:49 UTC; l
+Packaged: 2023-08-28 10:35:28 UTC; l
 Author: Luca Braglia [aut, cre]
 Maintainer: Luca Braglia <lbraglia@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-01-26 14:00:06 UTC
+Date/Publication: 2023-08-28 10:50:05 UTC

@@ -1,11 +1,11 @@
-96fc0c1d14ed8faa94899b984247ad31 *DESCRIPTION
+a58cc7965c5d16d30cb61641b9659688 *DESCRIPTION
 55fe19ccd8620a7e9936c4fb4e37fbc3 *NAMESPACE
 1f4820757abf4e4603d21a1672c182eb *R/guess_fc.R
-d094c4a34078a4bfe9d4bf3808101aa8 *R/ifctools-package.R
+43a08987ad3a8ef8d3c9b0dac0db5fac *R/ifctools-package.R
 a5f6a28bd6240463d5d9320a1a540546 *R/wrong_fc.R
 135c74e5ff7e5befb352699723928701 *README.md
 ea52d21b22a3c7126700393ce9e2e5de *man/guess_fc.Rd
-20218d0240cc9eb56321478cf05fb36a *man/ifctools.Rd
+fac2c91b6d99db4e8cac8adc7a740db0 *man/ifctools.Rd
 4518998ae696cd8ec5ccb7442abca327 *man/wrong_fc.Rd
 cfca2721642da79ed295691571a69488 *src/ifctools.h
 d8c70fa1ee6525a08a56c84b3eb3abfe *src/ifctools_init.c
